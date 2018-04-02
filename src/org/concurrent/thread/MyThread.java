@@ -1,4 +1,4 @@
-package org.concurrent;
+package org.concurrent.thread;
 
 /**
  * 继承 Thread 类创建线程对象

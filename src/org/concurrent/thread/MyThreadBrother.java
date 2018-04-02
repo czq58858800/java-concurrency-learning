@@ -1,4 +1,4 @@
-package org.concurrent;
+package org.concurrent.thread;
 
 /**
  * 实现 Runnable 接口类创建线程对象

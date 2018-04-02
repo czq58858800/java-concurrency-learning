@@ -1,4 +1,4 @@
-package org.concurrent;
+package org.concurrent.thread;
 
 /**
  * 线程实例对象的属性值
